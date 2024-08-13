@@ -14,6 +14,8 @@ Security and best practices are central to Tesla Toolbox's guidance. It emphasiz
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
