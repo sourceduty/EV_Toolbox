@@ -14,8 +14,6 @@ Security and best practices are central to Tesla Toolbox's guidance. It emphasiz
 
 The "Tesla Toolbox" is a concept that involves creating software tools, scripts, or applications that interact with Tesla vehicles using Tesla's API. I can guide you through using libraries like TeslaPy or TeslaJS, as well as developing custom applications for vehicle control and monitoring.
 
-To get started, could you specify what you'd like to do today? Here are some options:
-
 1. Automate Charging Schedules: Set up scripts to automatically manage your Tesla's charging times based on electricity rates or other factors.
 2. Remote Climate Control: Create an application to control your Tesla's climate settings remotely.
 3. Data Logging and Analysis: Collect and analyze data from your Tesla, such as driving patterns, charging history, or efficiency metrics.
