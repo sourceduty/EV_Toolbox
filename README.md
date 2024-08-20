@@ -125,6 +125,10 @@ The "Tesla Toolbox" is a concept that involves creating software tools, scripts,
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
+<br>
+[EV](https://github.com/sourceduty/EV)
+<br>
+[Tesla Design](https://github.com/sourceduty/Tesla_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
