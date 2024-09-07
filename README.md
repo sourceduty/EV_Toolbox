@@ -12,6 +12,8 @@ Security and best practices are central to Tesla Toolbox's guidance. It emphasiz
 
 #
 
+![Cybertrucks](https://github.com/user-attachments/assets/7f353059-11f0-411b-9428-a9ed946f469f)
+
 The "Tesla Toolbox" is a concept that involves creating software tools, scripts, or applications that interact with Tesla vehicles using Tesla's API. I can guide you through using libraries like TeslaPy or TeslaJS, as well as developing custom applications for vehicle control and monitoring.
 
 #
