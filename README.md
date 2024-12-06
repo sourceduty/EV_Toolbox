@@ -147,6 +147,8 @@ Beyond these entertaining features, Tesla also hides clever nods to popular cult
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [EV Simulator](https://github.com/sourceduty/EV_Simulator)
+<br>
+[EV Upgrade](https://github.com/sourceduty/EV_Upgrade)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
